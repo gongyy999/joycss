@@ -4,7 +4,7 @@
   "keywords"      : ["css", "sprite"],
   "author"        : "Eward Song<hanwen.sah@taobao.com>",
   "contributors"  : [],
-  "version"       : "0.5.0beta",
+  "version"       : "0.5.0beta1",
   "bin"           : { "joycss": "./bin/joycss" },
   "dependencies"  : {
     "shelljs": "~0.1.2",
